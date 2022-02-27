@@ -1,0 +1,1 @@
+要上传博客，直接在hexoblog里面打开git，敲source up.sh
